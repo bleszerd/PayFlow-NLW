@@ -1,0 +1,1 @@
+**google-services.json is not uploaded to Git, check this before rum your app**
