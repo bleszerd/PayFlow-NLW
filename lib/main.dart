@@ -2,8 +2,6 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 
 import 'app_widget.dart';
-import 'modules/login/login_page.dart';
-import 'shared/themes/app_colors.dart';
 
 void main() {
   runApp(AppFirebase());
